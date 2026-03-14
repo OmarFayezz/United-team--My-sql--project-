@@ -1,4 +1,5 @@
 # SQL Data Analysis Project
+![Dashboard Preview](dashboard-preview.png)
 
 This project was completed as part of GDG.
 
