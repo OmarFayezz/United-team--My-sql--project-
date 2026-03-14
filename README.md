@@ -1,2 +1,2 @@
-# United-team--My-sql--project-
+# SQL-Data-Analysis-Project
 SQL queries, interactive dashboard, and presentation
